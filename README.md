@@ -31,3 +31,18 @@ pip install -r requirements.txt
 
 # 3. Run the Flask app
 python app.py
+
+    4. Access the app at:
+http://localhost:5000
+
+📁 Folder Structure
+project/
+├── static/             # CSS, JS, images
+├── templates/          # HTML templates
+├── model/              # Saved ML model
+├── dashboards/         # Power BI embeds
+├── app.py              # Flask backend
+├── sentiment_model.py  # ML code
+├── requirements.txt
+└── README.md
+
